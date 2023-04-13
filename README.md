@@ -9,4 +9,5 @@ Designed by [@guan-wy](https://github.com/guan-wy)
 </p>
 
 <p><img src="preview-white.png" /></p>
+<p><img src="preview-dark-transparent.png" /></p>
 <p><img src="preview-dark.png" /></p>
