@@ -2,6 +2,8 @@
 
 Designed by [@guan-wy](https://github.com/guan-wy)
 
+Font: https://fonts.google.com/specimen/IBM+Plex+Mono
+
 <p align="center">
   <img src="logo-square.png" width="200" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
