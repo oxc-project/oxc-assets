@@ -13,3 +13,5 @@ Font: https://fonts.google.com/specimen/IBM+Plex+Mono
 <p><img src="preview-white.png" /></p>
 <p><img src="preview-dark-transparent.png" /></p>
 <p><img src="preview-dark.png" /></p>
+<p><img src="uwu.png" /></p>
+<p><img src="uwu-shadow.png" /></p>
