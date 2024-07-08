@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
-<rect width="240" height="240" rx="120" fill="#fff"/>
 <mask id="c" x="99" y="6" width="42" height="42" maskUnits="userSpaceOnUse">
 <path d="M99 6h42v42H99z" fill="#fff"/>
 <path d="m120 44c9.389 0 17-7.611 17-17s-7.611-17-17-17-17 7.611-17 17 7.611 17 17 17zm0-7c5.523 0 10-4.477 10-10s-4.477-10-10-10-10 4.477-10 10 4.477 10 10 10z" clip-rule="evenodd" fill-rule="evenodd"/>
