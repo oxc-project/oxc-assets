@@ -1,8 +1,11 @@
 # Assets for [oxc](https://github.com/Boshen/oxc)
 
-Designed by [@guan-wy](https://github.com/guan-wy)
+Designed by [@tongtong-lu](https://github.com/tongtong-lu) and [@guan-wy](https://github.com/guan-wy)
 
 Font: https://fonts.google.com/specimen/IBM+Plex+Mono
+
+Colors:
+* #91EDE9 #FF915C #48ACBA #2B3C5A #8A380F
 
 <p><img src="VI.png" /></p>
 
