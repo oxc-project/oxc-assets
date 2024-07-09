@@ -9,6 +9,7 @@ Colors:
 
 <p><img src="VI.png" /></p>
 
+<p><img src="preview-universal.png" /></p>
 <p><img src="preview-white-bubbles.png" /></p>
 <p><img src="preview-dark-bubbles.png" /></p>
 
