@@ -55,12 +55,8 @@ For larger displays and stickers.
 
 ### Universal Background
 
-<p><img src="" /></p>
-
 <p align="center">
-  <img src="preview-universal.png" width="40%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img style="background:black" src="preview-universal.png" width="40%" />
+  <img src="preview-universal.png" width="100%" />
 </p>
 
 ### White and Dark Background
